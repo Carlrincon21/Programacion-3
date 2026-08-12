@@ -1,0 +1,65 @@
+*{
+   margin: 0;
+   color: white;
+}
+.cuerpo{
+   background-color: black;
+}
+
+
+.principal{
+   display:flex;
+   flex-direction: column;
+   justify-content: space-between;
+   height: 1060px;
+}
+
+
+
+
+
+
+.barraDespegable{
+   background-color: aqua;
+   padding: 100px;
+}
+.cajaTexto {
+   background-color: brown;
+   padding: 100px;
+}
+.pie {
+   background-color: rgb(70, 129, 10);
+   padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.boton{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   padding: 0px;
+   background-color:  rgb(158, 155, 149);
+   border: 1px color(srgb ffff ffff ffff);
+   border-radius: 75px;
+   cursor: pointer;
+}
