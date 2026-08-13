@@ -14,11 +14,6 @@
    height: 1060px;
 }
 
-
-
-
-
-
 .barraDespegable{
    background-color: aqua;
    padding: 100px;
@@ -31,27 +26,6 @@
    background-color: rgb(70, 129, 10);
    padding: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .boton{
    display: flex;
